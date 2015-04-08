@@ -1,1 +1,2 @@
-alert("Hello le Monde !")
+var mess = "Hello le Monde !";
+alert(mess);
